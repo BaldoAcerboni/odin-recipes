@@ -1,0 +1,10 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.descr {
+    background-color: rgb(220, 220, 220);
+}
+li {
+    margin: 10px;
+}
