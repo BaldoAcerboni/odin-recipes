@@ -1,0 +1,145 @@
+index.html:
+  sloppy joe;
+  pasta salad;
+  summer pizza;
+
+
+pasta-salad.html:
+
+  title:
+    Pasta Salad with Homemade Dressing
+  description:
+    A homemade Italian pasta salad dressing takes this simple pasta
+    salad loaded with veggies, cheese, pepperoni, and olives to a whole
+    new level! Serve it right away or make it ahead for packed lunches,
+    picnics, or summer barbecues.
+  
+  div.container:
+    ingredients:
+      <li>1 (8 ounce) package uncooked tri-color rotini pasta</li>
+      <li>6 ounces pepperoni sausage, diced</li>
+      <li>6 ounces provolone cheese, cubed</li>
+      <li>1 medium red onion, very thinly sliced and cut into 1-inch pieces</li>
+      <li>1 small cucumber, thinly sliced</li>
+      <li><sup>3</sup>&frasl;<sub>4</sub> cup chopped green bell pepper</li>
+      <li><sup>3</sup>&frasl;<sub>4</sub> cup chopped red bell pepper</li>
+      <li>1 (6 ounce) can pitted black olives, drained</li>
+      <li><sup>1</sup>&frasl;<sub>4</sub> cup minced fresh parsley</li>
+      <li><sup>1</sup>&frasl;<sub>4</sub> cup grated Parmesan cheese</li>
+    dressing:
+      <li><sup>1</sup>&frasl;<sub>2</sub> cup olive oil</li>
+      <li><sup>1</sup>&frasl;<sub>4</sub> cup red wine vinegar</li>
+      <li>2 cloves garlic, minced</li>
+      <li>1 teaspoon dried basil</li>
+      <li>1 teaspoon dried oregano</li>
+      <li><sup>1</sup>&frasl;<sub>2</sub> teaspoon ground mustard seed</li>
+      <li><sup>1</sup>&frasl;<sub>4</sub> teaspoon salt</li>
+      <li><sup>1</sup>&frasl;<sub>8</sub> teaspoon ground black pepper</li>
+    steps:
+      <li>Gather all ingredients.</li>
+      <li>
+        Bring a large pot of lightly salted water to a boil.
+        Add rotini and cook until tender yet firm to the bite,
+        8 to 10 minutes. Drain, rinse with cold water, and drain again.
+      </li>
+      <li>
+        Transfer drained, cooked pasta to a large bowl. Add pepperoni,
+        provolone cheese, red onion, cucumber, bell peppers, olives,
+        parsley, and Parmesan cheese.
+      </li>
+      <li>
+        Mix olive oil, vinegar, garlic, basil, oregano, ground mustard,
+        salt, and pepper for dressing in a jar with a lid. Seal the jar,
+        and shake until well combined.
+      </li>
+      <li>
+        Pour dressing over the pasta salad; toss until well coated.
+        Serve immediately, or cover and chill in the refrigerator for
+        up to 8 hours before serving.
+      </li>
+  
+  link back to homepage
+
+
+sloppy-joes.html:
+  title:  Sloppy Joes
+  description:
+    <p>
+			A Sloppy Joe is a sandwich consisting of ground beef and onions in a
+			tomato-based sauce served on a hamburger bun.
+		</p>
+		<p>
+			The sandwich likely originated in Sioux City, Iowa in the 1930s.
+			According to legend, the "loose meat sandwich" was the creation of
+			a cook named Joe.
+		</p>
+  
+  div.container:
+    ingredients:
+      <li>1 pound lean ground beef</li>
+      <li><sup>1</sup>&frasl;<sub>4</sub> cup chopped green bell pepper</li>
+      <li><sup>1</sup>&frasl;<sub>4</sub> cup chopped onion</li>
+      <li><sup>3</sup>&frasl;<sub>4</sub> cup ketchup, or to taste</li>
+      <li>1 tablespoon brown sugar, or to taste</li>
+      <li>1 teaspoon yellow mustard, or to taste</li>
+      <li><sup>1</sup>&frasl;<sub>2</sub> teaspoon garlic powder</li>
+      <li>salt and ground black pepper to taste</li>
+      <li>6 hamburger buns, split</li>
+    steps:
+      <li>Cook the beef, onion, and green pepper.</li>
+      <li>Drain the liquids, then stir in the remaining ingredients.</li>
+      <li>Simmer for about 30 minutes. Serve on hamburger buns.</li>
+  
+  link back to homepage
+
+
+summer-pizza.html:
+  title: Summer Pizza
+  description:
+    This summer pizza is loaded with fresh veggies, light on the cheese,
+    and is made on the grill. The butter glaze makes a nice finish,
+    but you can skip it if you like.
+  
+  div.container:
+    ingredients:
+      <li>1 pound pizza dough</li>
+      <li><sup>1</sup>&frasl;<sub>4</sub> cup pesto</li>
+      <li><sup>1</sup>&frasl;<sub>3</sub> cup shredded quesadilla cheese</li>
+      <li>10 thin slices zucchini</li>
+      <li>10 thin slices summer squash</li>
+      <li>2 mini bell peppers, thinly sliced</li>
+      <li>1 thin slice red onion, diced</li>
+      <li>1 strip cooked bacon, chopped</li>
+      <li>
+        <strong>OPTIONAL:</strong>1 tablespoon butter + 1 teaspoon Brazilian steak
+        seasoning, or any seasoning you like
+      </li>
+    steps:
+      <li>
+        Preheat a gas grill with all burners on High for 10 to 15
+        minutes. Shape pizza dough into a circle.
+      </li>
+      <li>
+        Reduce the flame on half of the grill burners to Low, to create
+        areas of direct and indirect heat.
+      </li>
+      <li>
+        Carefully place dough onto the grill over direct heat.
+        Close the cover. Let dough grill until the bottom is just barely
+        cooked and shows char marks, 1 to 3 minutes.
+      </li>
+      <li>
+        Use tongs to flip pizza dough over; move to the indirect heat.
+        Brush dough with pesto. Sprinkle with cheese. Scatter on
+        zucchini, summer squash, bell pepper, red onion, and bacon.
+      </li>
+      <li>
+        Grill until cheese is melted, about 3 minutes.
+        Carefully remove pizza from the grill.
+      </li>
+      <li>
+        <strong>OPTIONAL:</strong> Brush crust edges with butter glaze and place pizza
+        under the oven broiler, until golden.
+      </li>
+  
+  link to mainpage
